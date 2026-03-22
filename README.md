@@ -1,8 +1,8 @@
 # Using Claude Code + Stata in VS Code for Economic Research
 ### A setup guide for economists — no developer experience required
 
-Built by a health economics researcher at [Your Institution].
-Companion to: *[Your thesis title]* — [Year]
+Built by a health economics researcher at KU Leuven.
+Companion to: Evaluation of the French Sugar Tax on BMI and Health: An Agentic Research Framework — 2026
 
 ---
 
