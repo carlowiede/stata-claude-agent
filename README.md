@@ -236,5 +236,5 @@ requires the CLI to be installed — it does not work standalone.
 
 If you use this setup in your research, please cite:
 
-> [Your Name] ([Year]). *[Thesis title]*. [Institution].
-> GitHub: https://github.com/[yourusername]/[reponame]
+> Carlo Wiede (2026). *Evaluation of the French Sugar Tax on BMI and Health: An Agentic Research Framework*. KU Leuven.
+> GitHub: https://github.com/carlowiede/stata-claude-agent
