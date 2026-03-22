@@ -108,19 +108,23 @@ Once installed, you will see a Claude icon in your left sidebar.
 
 ---
 
-## Step 6 — Install the Stata Workbench extension
-
+Step 6 — Install the Stata Workbench extension
 This connects VS Code to your local Stata installation.
 
-1. In VS Code, press `Cmd + Shift + X`
-2. Search for **"Stata Workbench"** (by Thomas Monk, LSE)
-3. Click Install
+In VS Code, press Cmd + Shift + X
+Search for "Stata Workbench" (by Thomas Monk, LSE)
+Click Install
 
-Once installed:
-1. Press `Cmd + ,` to open Settings
-2. Search for **"stataMcp"**
-3. Find **"Configure Claude Code"** and turn it **on**
-4. Fully quit and reopen VS Code
+Once installed, you need to turn on one setting to connect it to Claude Code.
+This step is easy to miss — without it, Claude will not see Stata.
+
+Press Cmd + Shift + X to open the Extensions panel again
+Search for "Stata Workbench" and click on it to open its page
+Click the small gear icon next to the extension name
+Click "Extension Settings"
+Look for the setting called "Stata Mcp: Configure Claude Code"
+Tick the checkbox to turn it on
+Fully quit VS Code (Cmd + Q) and reopen it
 
 ---
 
