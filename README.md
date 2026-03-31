@@ -1,8 +1,8 @@
 # Using Claude Code + Stata in VS Code for Economic Research
 ### A setup guide for economists — no developer experience required
 
-Built by an economics researcher at [Your Institution].
-Companion to: *[Your thesis title]* — [Year]
+Built by an economics researcher at KU Leuven.
+Companion to: The Health Effects of the 2017–2020 French Tobacco Tax on Adults Aged 50+: A Reproducible Agentic Difference-in-Differences Analysis — 2026
 
 ---
 
@@ -345,5 +345,5 @@ the Stata Workbench extension supports:
 
 If you use this setup in your research, please cite:
 
-> [Your Name] ([Year]). *[Thesis title]*. [Institution].
-> GitHub: https://github.com/[yourusername]/[reponame]
+> Carlo Wiede (2026). *The Health Effects of the 2017–2020 French Tobacco Tax on Adults Aged 50+: A Reproducible Agentic Difference-in-Differences Analysis*. KU Leuven.
+> GitHub: https://github.com/carlowiede/stata-claude-agent
