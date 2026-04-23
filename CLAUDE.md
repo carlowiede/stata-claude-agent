@@ -258,6 +258,13 @@ Put the last two specifications side by side in a clean results table.
 
 ---
 
+## Data Integrity and Verification Rules
+
+Zero-Assumption Policy: Never assume variable names, numeric coding structures, or country identifiers.
+Mandatory Verification: Before running any regression or filter involving country-specific data, you MUST use the `codebook` or `label list` commands in Stata to verify the exact numeric codes (e.g., identifying that France is 17 and Germany is 12).
+Ask First: If you are unsure of a variable’s encoding, stop and ask the researcher: "What are the specific numeric codes for the treatment and control groups in this dataset?"
+
+---
 
 ## Conflict Resolution
 
